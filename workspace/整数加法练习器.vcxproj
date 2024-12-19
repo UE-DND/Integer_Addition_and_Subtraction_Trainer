@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code\function.c" />
-    <ClCompile Include="code\main.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="code\HEADER.h" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
